@@ -1,0 +1,2 @@
+1418b2971aa44686c5d11b6c8ef81eee137379e8  QuartusSetupWeb-13.0.1.232.run
+f7b31aa2236ff7dfa2efdee2a4c23fafe91f2764  max_web-13.0.1.232.qdz
